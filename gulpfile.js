@@ -8,7 +8,7 @@ var sequence    = require('run-sequence');
 var ftp         = require('vinyl-ftp');
 var notify      = require('gulp-notify');
 var gutil       = require('gulp-util');
-var sass        = require('gulp-sass');
+var sass        = require('gulp-sass')(require('sass'));
 
 
 // Copy task -- run this task once to copy all the Slick assets to the correct locations

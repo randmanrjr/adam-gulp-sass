@@ -5,9 +5,11 @@
     "gulp": "^4.0.2",
     "gulp-load-plugins": "^2.0.8",
     "gulp-notify": "^4.0.0",
+    "gulp-sass": "^5.1.0",
     "gulp-util": "^3.0.8",
     "merge-stream": "^2.0.0",
     "run-sequence": "^2.2.1",
+    "sass": "^1.63.4",
     "vinyl-ftp": "^0.6.1",
     "yargs": "^17.7.2"
   },

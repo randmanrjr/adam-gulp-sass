@@ -1,2 +1,9 @@
 .idea/
 node_modules/
+css/ajax-loader.gif
+css/main.css
+css/fonts/
+
+src/scss/third-party/
+
+js/vendor/
